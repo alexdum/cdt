@@ -1,0 +1,21 @@
+---
+title: "Data"
+date: Last update `r Sys.Date()`
+---
+
+## Solar radiation data
+  Here are listed several __solar radiation__ databases covering large regions of the globe
+  
+- Ground observations
+    - Baseline Surface Radiation Network <http://bsrn.awi.de/nc/stations/maps/> 
+    - World Radiation Data Centre <http://wrdc.mgo.rssi.ru/>
+    - GEBA <http://www.geba.ethz.ch/>
+    - CAVE data <https://www-cave.larc.nasa.gov/pages/sfcobs.html>
+ 
+- Modelled data
+    - CMSAF <http://cmsaf.eu>
+    - PVGIS <http://re.jrc.ec.europa.eu/pvgis/download/download.htm>
+    - NASA-CERES <https://ceres.larc.nasa.gov/order_data.php>
+    - NASA-SSE <https://eosweb.larc.nasa.gov/cgi-bin/sse/global.cgi?email=skip@larc.nasa.gov>
+    - Helioclim <http://www.soda-pro.com/>
+    - Global Atlas <http://irena.masdar.ac.ae/>
