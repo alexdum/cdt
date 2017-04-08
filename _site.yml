@@ -2,8 +2,7 @@ name: "cdt"
 navbar:
   title: "cdt"
   left:
-    - text: "Home"
-      href: index.html
+   
     - text: "Data"
       href: data.html
     - text: "Tools"
