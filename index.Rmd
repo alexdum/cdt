@@ -1,5 +1,5 @@
 ---
-title: "cdt: climate data and tools"
+title: "cdt::climate data & tools"
 output: 
   html_document: 
     number_sections: yes
